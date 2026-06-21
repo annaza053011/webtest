@@ -1,0 +1,6 @@
+{
+  "name": "MangaNova",
+  "description": "Lector inmersivo de manga premium con temas de alta fidelidad y navegación fluida",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
