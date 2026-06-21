@@ -1,5 +1,6 @@
 {
-  rewrites [
-    { source (.), destination index.html }
+  "rootDirectory": "newfolder",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
